@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi 👋 I am StyleZhang
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YIXIAO0/YIXIAO0/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/YIXIAO0/YIXIAO0/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+---
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=YIXIAO0&show_icons=true&theme=bear" width = 400>
+</p>
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=YIXIAO0&theme=dark&hide_border=true" width = 400>
+</p>
